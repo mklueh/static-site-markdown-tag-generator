@@ -1,0 +1,14 @@
+{
+  "name": "static-site-markdown-tag-generator",
+  "private": true,
+  "scripts": {
+
+  },
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+    "jdown": "^1.0.4",
+    "shortid": "^2.2.15",
+  }
+}
